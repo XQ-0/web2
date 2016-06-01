@@ -1,0 +1,133 @@
+@charset "utf-8";
+#www{
+	width: 100%;
+	height: 430px;
+	background-color: white;
+	margin-top: -60px;
+}
+.zhuce-top{
+	margin-top: 60px;
+	font-size: 14px;
+	font-weight: bold;
+}
+.zhuce-top1 span{
+	display:inline-block;
+	width: 20px;
+	height: 20px;
+	color: white;
+	border-radius: 10px;
+	background-color:red;
+	
+}
+.zhuce-top2 span{
+	display:inline-block;
+	width: 20px;
+	height: 20px;
+	color: white;
+	border-radius: 10px;
+	background-color:#CCCCCC;
+}
+.zhuce-top3 span{
+	display:inline-block;
+	width: 20px;
+	height: 20px;
+	color: white;
+	border-radius: 10px;
+	background-color:#CCCCCC;
+}
+.zhuce-top1{
+	width: 400px;
+	height: 200px;
+	float: left;
+	text-align: center;
+	height: 38px;
+	border-bottom: 2px solid #F48534;
+}
+.zhuce-top2{
+	width: 400px;
+	height: 200px;
+	float: left;
+	text-align: center;
+	color: #999999;
+	height: 38px;
+	border-bottom: 2px solid #e6e6e6;
+}
+.zhuce-top3{
+	width: 400px;
+	height: 200px;
+	float: left;
+	text-align: center;
+	color: #999999;
+	height: 38px;
+	border-bottom: 2px solid #e6e6e6;
+}
+.zhuce-content{
+	margin: 0 auto;
+	padding-top: 100px;
+}
+.zhuce-content1{
+	width: 420px;
+	height: 500px;
+}
+.zhuce-content label{
+	font-size: 12px;
+	font-weight: bold;
+}
+.zhuce-content span{
+	color: #CB0212;
+}
+.zhuce-content1-input1{
+	display: inline-block;
+	width: 57px;
+	height: 35px;
+	background-color: #EEEEEE;
+	border: 1px solid #CCCCCC;
+	border-right: none;
+	text-align: center;
+	margin-top: 60px;
+
+}
+.zhuce-content1-input2{
+	display: inline-block;
+	width: 187px;
+	height: 35px;
+	border: 1px solid #CCCCCC;
+	font-family: 微软雅黑;
+	text-indent: 10px;
+}
+.zhuce-content1-input3{
+	display: inline-block;
+	width: 81px;
+	height: 34px;
+	background-color: #E70014;
+	border: none;
+	color: white;
+	text-align: center;
+	cursor: pointer;
+	border-radius: 4px;
+	margin-left: 20px;
+}
+.zhuce-content1-input4{
+	display: inline-block;
+	width: 94px;
+	height: 35px;
+	background-color: #EEEEEE;
+	border: 1px solid #CCCCCC;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+.zhuce-content1-agree{
+	display:inline-block;
+	margin-left: 40px;
+	margin-right: 20px;
+}
+.zhuce-content1-next{
+	display: inline-block;
+	width: 189px;
+	height: 35px;
+	background-color: #EF5A65;
+	border: none;
+	color: white;
+	margin-top: 25px;
+	margin-left: 100px;
+}
