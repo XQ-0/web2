@@ -756,11 +756,11 @@ li{
 	width:100%;
 	height:244px;
 	padding-top: 30px;
-	width: 1200px;
+	
 	background-color: #3B3B3B;
 }
 .footer1{
-	width:1200px;
+	width:100%;
 	height:172px;
 	color: #D0D0D0;
 	border-bottom: 1px solid #585858;
@@ -776,6 +776,7 @@ li{
 	font-size: 14px;
 	margin-right: 20px;
 	color: #D0D0D0;
+	margin-left: 10px;
 
 }
 .footer1 dt{
